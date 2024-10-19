@@ -115,13 +115,13 @@ function App() {
                   src="img/menu-item-2.jpg"
                   alt="Image"
                   className="rounded-md"
-                >
+                />
                 <div className="ml-3 sm:ml-6">
                   <h3 className="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">
                     Hot Americano
                   </h3>
                   <div className="text-white text-md sm:text-lg font-light mb-1">
-                    S $9.50 
+                    S $9.50
                   </div>
                   <div className="text-white text-md sm:text-lg font-light">
                     L $12.50
@@ -133,7 +133,7 @@ function App() {
                   src="img/menu-item-3.jpg"
                   alt="Image"
                   className="rounded-md"
-                >
+                />
                 <div className="ml-3 sm:ml-6">
                   <h3 className="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">
                     Hot
@@ -151,7 +151,7 @@ function App() {
                   src="img/menu-item-4.jpg"
                   alt="Image"
                   className="rounded-md"
-                >
+                />
                 <div className="ml-3 sm:ml-6">
                   <h3 className="text-lg sm:text-xl tm-text-yellow mb-1">
                     Hot Espresso
@@ -182,7 +182,7 @@ function App() {
                   src="img/menu-item-5.jpg"
                   alt="Image"
                   className="rounded-md"
-                >
+                />
               </div>
               <div className="flex items-start justify-end mb-6 tm-menu-item-2">
                 <div className="text-right mr-6">
@@ -200,7 +200,7 @@ function App() {
                   src="img/menu-item-6.jpg"
                   alt="Image"
                   className="rounded-md"
-                >
+                />
               </div>
               <div className="flex items-start justify-end mb-6 tm-menu-item-2">
                 <div className="text-right mr-6">
@@ -218,7 +218,7 @@ function App() {
                   src="img/menu-item-7.jpg"
                   alt="Image"
                   className="rounded-md"
-                >
+                />
               </div>
               <div className="flex items-start justify-end mb-6 tm-menu-item-2">
                 <div className="text-right mr-6">
@@ -236,7 +236,7 @@ function App() {
                   src="img/menu-item-8.jpg"
                   alt="Image"
                   className="rounded-md"
-                >
+                />
               </div>
             </div>
           </div>
