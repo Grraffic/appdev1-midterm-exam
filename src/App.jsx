@@ -6,7 +6,7 @@ function App() {
         id="intro"
         className="parallax-window"
         data-parallax="scroll"
-        data-image-src="img/antique-cafe-bg-01.jpg"
+        data-image-src="/assets/img/antique-cafe-bg-01.jpg"
       >
         <nav id="tm-nav" className="fixed w-full">
           <div className="tm-container mx-auto px-2 md:py-6 text-right">
@@ -82,7 +82,7 @@ function App() {
         id="menu"
         className="parallax-window"
         data-parallax="scroll"
-        data-image-src="img/antique-cafe-bg-02.jpg"
+        data-image-src="assets/img/antique-cafe-bg-02.jpg"
       >
         <div className="container mx-auto tm-container py-24 sm:py-48">
           <div className="text-center mb-16">
@@ -94,7 +94,7 @@ function App() {
             <div className="flex-1 m-5 rounded-xl px-4 py-6 sm:px-8 sm:py-10 tm-bg-brown tm-item-container">
               <div className="flex items-start mb-6 tm-menu-item">
                 <img
-                  src="img/menu-item-1.jpg"
+                  src="assets/img/menu-item-1.jpg"
                   alt="Image"
                   className="rounded-md"
                 />
@@ -112,7 +112,7 @@ function App() {
               </div>
               <div className="flex items-start mb-6 tm-menu-item">
                 <img
-                  src="img/menu-item-2.jpg"
+                  src="assets/img/menu-item-2.jpg"
                   alt="Image"
                   className="rounded-md"
                 />
@@ -130,7 +130,7 @@ function App() {
               </div>
               <div className="flex items-start mb-6 tm-menu-item">
                 <img
-                  src="img/menu-item-3.jpg"
+                  src="assets/img/menu-item-3.jpg"
                   alt="Image"
                   className="rounded-md"
                 />
@@ -148,7 +148,7 @@ function App() {
               </div>
               <div className="flex items-start mb-6 tm-menu-item">
                 <img
-                  src="img/menu-item-4.jpg"
+                  src="assets/img/menu-item-4.jpg"
                   alt="Image"
                   className="rounded-md"
                 />
@@ -179,7 +179,7 @@ function App() {
                   </div>
                 </div>
                 <img
-                  src="img/menu-item-5.jpg"
+                  src="assets/img/menu-item-5.jpg"
                   alt="Image"
                   className="rounded-md"
                 />
@@ -197,7 +197,7 @@ function App() {
                   </div>
                 </div>
                 <img
-                  src="img/menu-item-6.jpg"
+                  src="assets/img/menu-item-6.jpg"
                   alt="Image"
                   className="rounded-md"
                 />
@@ -215,7 +215,7 @@ function App() {
                   </div>
                 </div>
                 <img
-                  src="img/menu-item-7.jpg"
+                  src="assets/img/menu-item-7.jpg"
                   alt="Image"
                   className="rounded-md"
                 />
@@ -233,7 +233,7 @@ function App() {
                   </div>
                 </div>
                 <img
-                  src="img/menu-item-8.jpg"
+                  src="assets/img/menu-item-8.jpg"
                   alt="Image"
                   className="rounded-md"
                 />
@@ -246,7 +246,7 @@ function App() {
         id="about"
         className="parallax-window"
         data-parallax="scroll"
-        data-image-src="img/antique-cafe-bg-03.jpg"
+        data-image-src="assets/img/antique-cafe-bg-03.jpg"
       >
         <div className="container mx-auto tm-container py-24 sm:py-48">
           <div className="tm-item-container sm:ml-auto sm:mr-12 mx-auto sm:px-0 px-4">
@@ -287,7 +287,7 @@ function App() {
         id="contact"
         className="parallax-window relative"
         data-parallax="scroll"
-        data-image-src="img/antique-cafe-bg-04.jpg"
+        data-image-src="assets/img/antique-cafe-bg-04.jpg"
       >
         <div className="container mx-auto tm-container pt-24 pb-48 sm:py-48">
           <div className="flex flex-col lg:flex-row justify-around items-center lg:items-stretch">
